@@ -17,3 +17,5 @@ Webiste ini memiliki 3 fitur: admin(belum tersedia), kurir(belum tersedia), dan 
     Customer/Pelanggan: akses '127.0.0.1/', sebagai pelanggan, anda bisa melakukan checkout tanpa akun, atau dengan akun. Untuk membuat akun baru, klik 'LOGIN' pada header, lalu klik 'Daftar disini'.
   </li>
 </ul>
+<br><br>
+GW pakai EY AY jir buat tugas ini, nikmati aja layout code yang berantakan &#128569;
