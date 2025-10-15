@@ -2,7 +2,8 @@
 File tugas pemrograman, hasil eksperimen, keamanan tidak terjamin
 <br>
 README!!
-Untuk menggunakan website ini, hubungkan dengan database terlebih dahulu. Dalam proses pembuatannya, saya menggunakan Laragon, mengganti Document Root pada setting dengan direktori file. (Script pembuatan tabel dan database menyusul)
+Untuk menggunakan website ini, hubungkan dengan database terlebih dahulu. Dalam proses pembuatannya, saya menggunakan Laragon, mengganti Document Root pada setting dengan direktori file. Pastikan Document Root anda seperti ini:
+<br>'directory/directory/responsive-coffee-website-3/'.(Script pembuatan tabel dan database menyusul)
 <br>
 Webiste ini memiliki 3 fitur: admin(belum tersedia), kurir(belum tersedia), dan customer/pelanggan, asumsikan anda menggunakan <b>Laragon</b>:
 <ul>
